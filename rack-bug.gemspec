@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "lib/rack/bug/panels/active_record_panel.rb",
     "lib/rack/bug/panels/active_record_panel/activerecord_extensions.rb",
     "lib/rack/bug/panels/cache_panel.rb",
+    "lib/rack/bug/panels/cache_panel/dalli_extension.rb",
     "lib/rack/bug/panels/cache_panel/memcache_extension.rb",
     "lib/rack/bug/panels/cache_panel/panel_app.rb",
     "lib/rack/bug/panels/cache_panel/stats.rb",
